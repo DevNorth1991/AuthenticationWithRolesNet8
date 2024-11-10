@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Sw1yjgRRF9Oe/a7ZIMxX42hUZw6EVDFYoZmzdiS1hIo=",
+  "Source": "AuthenticationWithRoles",
+  "BasePath": "_content/AuthenticationWithRoles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
