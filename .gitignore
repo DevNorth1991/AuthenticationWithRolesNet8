@@ -1,5 +1,42 @@
+# Visual Studio
 .vs/
 *.suo
 *.user
-*.userosscache
 *.sln.docstates
+
+# IDE-specific files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+
+# Build outputs
+bin/
+obj/
+wwwroot/lib/
+
+# Packages
+packages/
+
+# Local application data
+*.db
+*.sqlite
+*.mdf
+*.sdf
+
+# Logs
+*.log
+
+# Output and intermediate files
+*.tmp
+*.cache
+*.orig
+*.backup
+
+# Local history
+.localhistory/
+
+# Temporary files
+Thumbs.db
+desktop.ini
